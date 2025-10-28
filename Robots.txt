@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neers.com.np/sitemap.xml
